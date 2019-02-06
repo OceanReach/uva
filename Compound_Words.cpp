@@ -1,4 +1,3 @@
-#include "pch.h"
 #include <iostream>
 #include <string>
 #include <vector>
@@ -11,7 +10,7 @@ typedef std::map<std::string, UI> mSUI;
 const int MAX = 193939;
 
 
-//×Üµ¥´ÊÊý²»»á³¬¹ý120000
+//Ã—ÃœÂµÂ¥Â´ÃŠÃŠÃ½Â²Â»Â»Ã¡Â³Â¬Â¹Ã½120000
 
 UI BKDRHash(std::string);
 
